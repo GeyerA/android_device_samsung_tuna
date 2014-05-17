@@ -41,8 +41,8 @@ PRODUCT_PACKAGES := \
 
 # Torch
 PRODUCT_PACKAGES += \
-    Launcher3
-#    Torch
+    Torch
+
 
 PRODUCT_PACKAGES += \
 	sensors.tuna \
