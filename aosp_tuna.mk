@@ -16,3 +16,6 @@
 $(call inherit-product, device/samsung/tuna/full_tuna.mk)
 
 PRODUCT_NAME := aosp_tuna
+
+PRODUCT_PACKAGES += \
+    Launcher3
