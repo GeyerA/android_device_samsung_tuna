@@ -41,7 +41,7 @@ PRODUCT_PACKAGES := \
 
 # Torch
 PRODUCT_PACKAGES += \
-    Torch
+    Lightbulb
 
 
 PRODUCT_PACKAGES += \
